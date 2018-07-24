@@ -1,4 +1,4 @@
-!["MEWconnect Logo](https://raw.githubusercontent.com/MyEtherWallet/MEWconnect-landing-page/da0132f38be38280315550120afbc056a6d2a363/src/assets/images/logo.svg "MyEtherWallet")
+!["MEWconnect Logo](https://raw.githubusercontent.com/MyEtherWallet/MEWconnect-landing-page/da0132f38be38280315550120afbc056a6d2a363/src/assets/images/logo.svg?sanitize=true "MyEtherWallet")
 
 
 Finally, a ‘hardware wallet’ without all the hardware. -*#teamMEW*
