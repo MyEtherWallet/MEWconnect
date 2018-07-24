@@ -1,0 +1,12 @@
+[submodule "MEWconnect-landing-page"]
+	path = MEWconnect-landing-page
+	url = git@github.com:MyEtherWallet/MEWconnect-landing-page.git
+[submodule "MEWconnect-iOS"]
+	path = MEWconnect-iOS
+	url = git@github.com:MyEtherWallet/MEWconnect-iOS.git
+[submodule "MEWconnect-web-client"]
+	path = MEWconnect-web-client
+	url = git@github.com:MyEtherWallet/MEWconnect-web-client.git
+[submodule "MEWconnect-hanshake-server"]
+	path = MEWconnect-hanshake-server
+	url = git@github.com:MyEtherWallet/MEWconnect-hanshake-server.git
