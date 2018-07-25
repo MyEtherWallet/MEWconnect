@@ -10,3 +10,7 @@
 [submodule "MEWconnect-hanshake-server"]
 	path = MEWconnect-hanshake-server
 	url = git@github.com:MyEtherWallet/MEWconnect-hanshake-server.git
+[submodule "MEWconnect-dev-site"]
+	path = MEWconnect-dev-site
+	url = git@github.com:kvhnuke/etherwallet.git
+	branch = beta/mewconnect
