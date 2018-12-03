@@ -14,3 +14,6 @@
 	path = MEWconnect-dev-site
 	url = git@github.com:kvhnuke/etherwallet.git
 	branch = beta/mewconnect
+[submodule "MEWconnect-Android"]
+	path = MEWconnect-Android
+	url = git@github.com:MyEtherWallet/MEWconnect-Android.git
